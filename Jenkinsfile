@@ -1,4 +1,4 @@
-piepline {
+pipepline {
     agent any 
     stages {
         stage('parallel') {
